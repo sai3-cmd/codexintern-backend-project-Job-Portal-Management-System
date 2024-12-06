@@ -1,0 +1,10 @@
+ACCESS_TOKEN_SECRET=jkhgsdfnbhjgsadfvhjgsdfhjvsdf
+ACCESS_TOKEN_EXPIRY=1d
+
+MONGODB_URL=URL
+PORT=3000
+CORS_ORIGIN=*
+
+CLOUDINARY_CLOUD_NAME= your cloud name
+CLOUDINARY_API_KEY=your api key
+CLOUDINARY_API_SECRET=your api secret
